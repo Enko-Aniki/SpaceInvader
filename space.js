@@ -35,7 +35,7 @@ window.onload = function(){
 
     //draw ship
     context.fillStyle="green";
-    context.FillRect(ship.x,SpeechRecognitionAlternative.y,ship.width,ship.height)
+    context.FillRect(ship.x,ship.y,ship.width,ship.height)
 
 }
 
